@@ -1,0 +1,28 @@
+.avatar {
+  
+  object-fit: cover;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+.navavatar {
+  object-fit: cover;
+  height: 24px;
+  width: 24px;
+  border-radius: 50%;
+}
+.navbar {
+  padding-inline: 200px;
+}
+.insta {
+  position: relative;
+  padding-left: 5px;
+  margin-top: 4px;
+  width: 100px;
+  height: 24px;
+  margin-right:100px;
+}
+
+.text {
+  font-size: 12px;
+}
