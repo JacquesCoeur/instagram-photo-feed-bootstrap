@@ -1,6 +1,8 @@
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) The Instagram Photo Feed (with Bootstrap)
 
-+ My instagram photo feed clone with ####Bootstrap
++ My instagram photo feed clone with Bootstrap
+![](https://github.com/JacquesCoeur/instagram-photo-feed-bootstrap/blob/main/image/instaphoto.png)
+![](https://github.com/JacquesCoeur/instagram-photo-feed-bootstrap/blob/main/image/instagif.gif)
 
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) The Instagram Photo Feed (with Bootstrap)
 
